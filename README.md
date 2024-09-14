@@ -1,10 +1,11 @@
 ## Hi there 👋
-### I am deepesh a backend developer
+### I am Deepesh a backend developer
 - i am currently working with python, flask, databricks, azure keyvault backend implementations
 - Familiar with Java, Spring framework, MySQL, Redis
 
-![](https://github-readme-stats.vercel.app/api?username=deepeshalways)
-![](https://github-readme-streak-stats.herokuapp.com/?user=deepeshalways)
+<!-- #![](https://github-readme-stats.vercel.app/api?username=deepeshalways)
+![](https://github-readme-streak-stats.herokuapp.com/?user=deepeshalways) -->
+
 <!--
 **deepeshalways/deepeshalways** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
